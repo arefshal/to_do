@@ -1,6 +1,6 @@
 # to_do
-
-A new Flutter project.
+TO DO APP 
+Stay Organized and Productive with our To-Do App! Manage tasks, set priorities, and never miss a beat. Your go-to tool for a clutter-free life.
 
 ## Getting Started
 
